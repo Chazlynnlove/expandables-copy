@@ -1,3 +1,1 @@
-# 🌟 EXPANDABLES 🛰️
-
-All the Hack Club content that uses: https://github.com/ncase/nutshell. More coming soon!
+couldnt access the link, copied it to my domain
